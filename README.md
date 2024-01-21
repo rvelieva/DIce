@@ -1,0 +1,2 @@
+# DIce
+A simple dice 
